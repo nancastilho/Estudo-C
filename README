@@ -1,1 +1,17 @@
 Estudo C#
+
+01) Faça um programa que solicite 3 valores de entrada para o usuário. O primeiro valor vai definir qual a operação aritmética será executada: (0: Soma, 1: Subtração, 2: Multiplicação, 3: Divisão, 4: Potência). Caso seja escolhido um tipo diferente do especificado, o programa deverá ser encerrado. Superada essa etapa, o programa deverá aplicar a operação aritmética nos valores de entrada. Para o caso da potência, a base será o valor 1 e a potência o valor 2.
+
+==================
+
+Obs: Para todos os exercícios (02 ao 06), previamente, o programa deverá solicitar o tamanho do vetor/matriz e popular essa estrutura com valores aleatórios.
+
+02) Faça um programa que imprima um array de trás para frente.
+
+03) Faça um programa que realize a soma de todos os elementos do vetor.
+
+04) Faça um programa que exiba de forma separada os valores pares e ímpares do vetor.
+
+05) Faça um programa que exiba o maior, menor e a média dos elementos do vetor.
+
+06) Faça um programa que exiba a diagonal principal e a secundária da matriz.
